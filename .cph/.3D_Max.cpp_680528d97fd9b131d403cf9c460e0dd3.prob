@@ -1,0 +1,1 @@
+{"name":"Local: 3D_Max","url":"d:\\Practice\\3D_Max.cpp","tests":[{"id":1664390688916,"input":"101\n317\n332\n62\n1226\n631\n865\n539\n62\n9\n-1","output":"332\n62\n1226\n865\n62\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice\\3D_Max.cpp","group":"local","local":true}

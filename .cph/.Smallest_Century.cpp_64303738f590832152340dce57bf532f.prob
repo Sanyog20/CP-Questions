@@ -1,0 +1,1 @@
+{"name":"Local: Smallest_Century","url":"d:\\Practice\\Smallest_Century.cpp","tests":[{"id":1664384695865,"input":"5\n817\n3\n151\n-1","output":"151"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice\\Smallest_Century.cpp","group":"local","local":true}

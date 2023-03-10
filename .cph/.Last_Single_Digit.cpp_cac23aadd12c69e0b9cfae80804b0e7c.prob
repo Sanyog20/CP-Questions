@@ -1,0 +1,1 @@
+{"name":"Local: Last_Single_Digit","url":"d:\\Practice\\Last_Single_Digit.cpp","tests":[{"id":1664385219576,"input":"222\n3\n5\n62\n124\n1\n9\n5\n66\n7\n-1","output":"222\n5\n62\n124\n5\n66\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice\\Last_Single_Digit.cpp","group":"local","local":true}

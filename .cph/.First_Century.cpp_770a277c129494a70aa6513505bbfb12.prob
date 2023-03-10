@@ -1,0 +1,1 @@
+{"name":"Local: First_Century","url":"d:\\Practice\\First_Century.cpp","tests":[{"id":1664375304135,"input":"3\n116\n136\n61\n11\n616\n216\n376\n61\n6\n125\n116\n-1","output":"3\n116\n61\n11\n616\n61\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice\\First_Century.cpp","group":"local","local":true}
